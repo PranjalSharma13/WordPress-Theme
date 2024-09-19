@@ -1,0 +1,11 @@
+/*!
+Theme Name: WordPress + Tailwind
+Version: 1.0.0
+WordPress: A wordpress theme
+Author: Pranjal Sharma
+Author URI: https://pranjalsharma13.netlify.app/
+*/
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
